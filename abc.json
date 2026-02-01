@@ -1,0 +1,31 @@
+{"RESEARCH_PROFILE": "My research focuses on:\n - Quantum error correction\n- Quantum simulation of many-body systems on quantum computers\n- Experimental progress on quantum computing hardware\n- Demonstration of quantum advantage or utility\n- Tensor network methods\n- Quantum error mitigation and near-term quantum algorithms\n- Quantum machine learning",
+"EMAIL_ADDRESS": "Your_Email_Address",
+"EMAIL_PASSWORD": "Email_App_Password",
+"ARXIV_CATEGORIES": ["quant-ph", "cond-mat.str-el", "cond-mat.quant-gas"],
+"JOURNAL_FEEDS": {
+    "PRL": "https://feeds.aps.org/rss/recent/prl.xml",
+    "PRX": "https://feeds.aps.org/rss/recent/prx.xml",
+    "PRX Quantum": "https://feeds.aps.org/rss/recent/prxquantum.xml",
+    "PRR": "https://feeds.aps.org/rss/recent/prresearch.xml",
+    "PRB": "https://feeds.aps.org/rss/recent/prb.xml",
+    "PRA": "https://feeds.aps.org/rss/recent/pra.xml",
+    "npj Quantum Information": "https://www.nature.com/npjqi.rss",
+    "Communications Physics": "https://www.nature.com/commsphys.rss",
+    "Nature Physics": "https://www.nature.com/nphys.rss",
+    "Nature (Physics)": "https://www.nature.com/subjects/physics/nature.rss",
+    "Nature Communications (Physics)": "https://www.nature.com/subjects/physics/ncomms.rss"
+},
+"JOURNAL_WEIGHT_0_10": {
+    "PRL": 7,
+    "PRX": 8,
+    "PRX Quantum": 6,
+    "Nature Physics": 8,
+    "Nature (Physics)": 10,
+    "Nature Communications (Physics)": 7,
+    "npj Quantum Information": 5,
+    "Communications Physics": 4,
+    "PRR": 4,
+    "PRB": 4,
+    "PRA": 4
+}
+}
