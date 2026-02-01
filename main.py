@@ -1,7 +1,7 @@
 """
 Daily Research Agent
 - Fetches new papers from arXiv + PRL/PRX/Nature Physics
-- Uses DeepSeek-R1-671B (Tsinghua deployment) to judge relevance & summarize
+- Uses DeepSeek-R1-Distill-32B (Tsinghua deployment) to judge relevance & summarize
 - Sends a daily email digest
 """
 
