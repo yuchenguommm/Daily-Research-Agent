@@ -49,11 +49,10 @@ EMAIL_SUBJECT_PREFIX = "[Daily Research Digest]"
 
 load_dotenv()
 API_KEY = "YOUR_API_KEY"
-
+# Obtain API from, e.g., https://madmodel.cs.tsinghua.edu.cn/ (Deepseek at Tsinghua)
 
 def send_request(messages):
     url = 'https://madmodel.cs.tsinghua.edu.cn/v1/chat/completions'
-    # 从⾸⻚ “API使⽤指南” 复制token获得 API key
     headers = {
         'Content-Type': 'application/json',
         'authorization': f'Bearer {API_KEY}'
